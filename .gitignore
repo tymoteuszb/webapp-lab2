@@ -1,4 +1,8 @@
 node_modules/*
 .sass-cache/*
+<<<<<<< HEAD
 css/*
 css
+=======
+css/*
+>>>>>>> 30e3dcd83d915e8950e5b8696d0475f46379663a
